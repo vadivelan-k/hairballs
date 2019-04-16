@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/ratherblue/hairballs",
   "dependencies": {
-    "handlebars": "4.0.13"
+    "handlebars": "github:vadivelan-k/handlebars.js#4.1.2"
   },
   "devDependencies": {
     "chai": "3.5.0",
